@@ -13,5 +13,6 @@ public class LoginTest extends BaseSelenium{
 		lp.login("admin", "admin").verifyWelComeText("Welcome Admin");
 	
 		//add commit 1
+		//add commit 2
 	}
 }
